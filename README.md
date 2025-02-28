@@ -1,0 +1,1 @@
+Here is the my code challenge for Lendflow. I decided on using multiple different methods to showcase different ways of completing the tasks, rather than trying to make the most efficient and lean code possible. If that's not what's being looked for, I apologize. Hopefully my code and skills are up to standards for this position!
