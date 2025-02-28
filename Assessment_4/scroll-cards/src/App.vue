@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, onMounted, onUnmounted, useIntersectionObserver, watch } from 'vue'
+import { ref, onMounted, onUnmounted, watch } from 'vue'
 import Card from './Card.vue'
 
 const cards = Array.from(Array(100), (_, x) => `Card ${x + 1}`)
